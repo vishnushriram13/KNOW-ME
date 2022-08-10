@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu </h1>
 <h3 align="center"> To me, every new step is a path to gather experience and I wish to utilize it wisely. I hope to gain valuable experience through my job and understand the skills I need to learn and develop. I am a passionate developer having interest in Web & Software Development and Security. I believe in the process of continuous learning to keep myself in the game, striving to create, provide solutions and satisfying customer needs. 
 </h3>
-<img align="right" alt="Coding" src=""https://giphy.com/embed/tfnDgtpjFUdeghq4K5" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OMNICOMMANDER-peekaboo-bradshaw-omnicommander-tfnDgtpjFUdeghq4K5">via GIPHY</a></p>">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e47uj63yal6fxasrsu9as8wxkffa5lkqjaftxi853q7&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnushriram&label=Profile%20views&color=0e75b6&style=flat" alt="vishnushriram" /> </p>
 
