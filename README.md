@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **photogram**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **BACKEND DEVELOPMENT**
 
-- 💬 Ask me about **Web Development, AppSec, WebSec**
+- 💬 Ask me about **Web Development, AppSec**
 
 - 📫 How to reach me ** https://www.linkedin.com/in/vishnu-shriram-013/ **
 
